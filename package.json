@@ -12,5 +12,8 @@
     "databases"
   ],
   "author": "Tushar kathuria",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
 }
